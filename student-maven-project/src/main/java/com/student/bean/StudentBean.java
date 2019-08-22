@@ -18,7 +18,7 @@ public class StudentBean {
 		this.gender = gender;
 	}
 	public StudentBean(int id, String name, int age, String gender) {
-		super();
+		 
 		this.id = id;
 		this.name = name;
 		this.age = age;
